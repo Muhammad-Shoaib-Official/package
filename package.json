@@ -1,0 +1,29 @@
+{
+  "name": "tui-dev-kit",
+  "version": "1.0.0",
+  "description": "tui-dev-kit is a tailwind components library | components kit for fast web-ui development in tailwindcss. It's for tailwindcss components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muhammad-Shoaib-Official/package.git"
+  },
+  "keywords": [
+    "tui",
+    "tailwind",
+    "tailwind components",
+    "tailwind ui",
+    "tailwind kit",
+    "tailwind components library",
+    "tailwind components package",
+    "tailwind components kit"
+  ],
+  "author": "tui.kit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muhammad-Shoaib-Official/package/issues"
+  },
+  "homepage": "https://github.com/Muhammad-Shoaib-Official/package#readme"
+}
